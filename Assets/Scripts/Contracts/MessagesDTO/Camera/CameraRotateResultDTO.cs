@@ -1,4 +1,4 @@
-public class CameraRotateResultDTO
+public struct CameraRotateResultDTO
 {
     public float DeltaX;
     public float RotateSpeed;

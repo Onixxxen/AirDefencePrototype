@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class SpawnDroneDTO
+public struct SpawnDroneDTO
 {
     public IDroneModel Model { get; }
     public IDroneView View { get; }

@@ -1,4 +1,4 @@
-public class CameraZoomResultDTO
+public struct CameraZoomResultDTO
 {
     public float Zoom;
 

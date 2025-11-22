@@ -1,4 +1,4 @@
-﻿public class DroneHitBaseDTO
+﻿public struct DroneHitBaseDTO
 {
     public IDroneModel DroneModel;
 

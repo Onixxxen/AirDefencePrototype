@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class DroneStartedFlyDTO
+public struct DroneStartedFlyDTO
 {
     public IDroneModel DroneModel;
     public Vector3 CurrentPosition;

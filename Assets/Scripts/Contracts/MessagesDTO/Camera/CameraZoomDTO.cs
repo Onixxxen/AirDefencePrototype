@@ -1,4 +1,4 @@
-﻿public class CameraZoomDTO
+﻿public struct CameraZoomDTO
 {
     public float OrthographicSize;
     public float ZoomDelta;

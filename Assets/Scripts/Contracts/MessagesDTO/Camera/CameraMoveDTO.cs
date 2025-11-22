@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CameraMoveDTO
+public struct CameraMoveDTO
 {
     public Vector3 Position;
     public Vector3 CameraForward;

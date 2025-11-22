@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class DroneSpottedBaseDTO
+public struct DroneSpottedBaseDTO
 {
     public IDroneModel DroneModel;
     public Vector3 BasePosition;

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CameraMoveResultDTO
+public struct CameraMoveResultDTO
 {
     public Vector3 Position;
 

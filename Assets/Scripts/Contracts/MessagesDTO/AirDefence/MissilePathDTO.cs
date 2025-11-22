@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class MissilePathDTO
+public struct MissilePathDTO
 {
     public List<Vector3> Path { get; }
     public float Speed { get; }
